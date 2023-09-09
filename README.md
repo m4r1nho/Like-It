@@ -1,5 +1,5 @@
 # Like-It
-TCC Fatec Ourinhos
+TG Fatec Ourinhos
 
 Link Apresentação: https://docs.google.com/presentation/d/1vVyySn3iltWP2ypW-UWi3Z8_GviU3_vqESd8e-ZsE_g/edit#slide=id.g4dfce81f19_0_45
 
